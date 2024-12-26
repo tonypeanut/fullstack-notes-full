@@ -1,0 +1,14 @@
+# Node.js
+/frontend/node_modules/
+/frontend/build/
+
+# Python
+/backend/__pycache__/
+/backend/instance/
+/backend/.env
+/backend/migrations/
+
+# General
+*.log
+*.env
+.DS_Store
