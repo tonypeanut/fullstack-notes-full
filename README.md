@@ -119,7 +119,7 @@ Logs
 
 Live Deployment
 
-    Live App URL (Pending)
+    https://fullstack-notes-frontend-5yxa.onrender.com/
 
 Contact
 
